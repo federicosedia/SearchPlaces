@@ -29,22 +29,12 @@ def save_places_to_file(places):
     for place in places:
         place_name = place['name']
         structured_places[place_name] = {
-            "country": "Germany",  # Puoi cercare il paese o prenderlo dalla posizione
             "address": place.get('address', "Indirizzo non disponibile"),
             "selectedHashtags": place.get('selectedHashtags', []),  # Usa i tipi correttamente estratti
             "mainCategory": place.get('mainCategory', "Categoria non disponibile"),  # Aggiunta della mainCategory
-            "placeUid": place['placeUid'],
-            "city": "Berlin",
-            "latitude": place['latitude'],
-            "description": place['name'],
-            "ownerUserUid": place['placeUid'],  # Puoi cambiare se c'è un identificativo diverso
-            "chatNumber": f"chatUserPlaces-{place['placeUid']}",
-            "imageUrl": place['imageUrl'],
+            "primartupe": place['primaryTypeDisplayName'],
+            "primartaupe": place['primaryType'],
             "name": place['name'],
-            "eventDateEnd": "2024-03-21 23:46:28",  # Puoi cambiare questo valore
-            "votes": 0,  # Default per ora
-            "longitude": place['longitude'],
-            "__collections__": {}
         }
 
     with open('berlin_places_partial_bar_400_1_bar_prova_2.json', 'w') as json_file:
@@ -72,13 +62,30 @@ def get_places(location, radius, place_type, api_key, next_token=None):
         return None
     return response.json()
 
+# Funzione per salvare i dati in un file JSON
+def save_places_to_file(places):
+    structured_places = {}
+    for place in places:
+        place_name = place['name']
+        structured_places[place_name] = {
+            "address": place.get('address', "Indirizzo non disponibile"),
+            "selectedHashtags": place.get('selectedHashtags', []),
+            "mainCategory": place.get('mainCategory', "Categoria non disponibile"),
+            "primartupe": place.get('primartupe', "Tipo non disponibile"),  # Modificato per usare il metodo get
+            "primartaupe": place.get('primartaupe', "Tipo non disponibile"),  # Modificato per usare il metodo get
+            "name": place['name'],
+        }
+
+    with open('berlin_places_partial_bar_400_1_bar_prova_2.json', 'w') as json_file:
+        json.dump(structured_places, json_file, indent=4)
+
 # Funzione per estrarre i dati dei luoghi
 def extract_place_data(place, api_key):
     place_id = place['place_id']
-    
+
     # Verifica se "bar" è il tipo principale (primo nella lista)
     types = place.get('types', [])
-    
+
     # Condizione per controllare se il tipo principale è "bar"
     if len(types) == 0 or types[0] != 'bar':
         return None  # Ignora il luogo se "bar" non è il tipo principale
@@ -97,8 +104,13 @@ def extract_place_data(place, api_key):
         ),
         "openingHours": place.get('opening_hours', {}).get('weekday_text', []),
         "selectedHashtags": types,  # Estrai tutti i tipi di luogo
+        # Verifica se 'primaryTypeDisplayName' e 'primaryType' sono presenti, altrimenti usa un valore predefinito
+        "primartupe": place.get('primaryTypeDisplayName', "Tipo non disponibile"),
+        "primartaupe": place.get('primaryType', "Tipo non disponibile"),
     }
     return place_details
+
+
 
 
 # Funzione per eseguire la ricerca in una griglia di coordinate

@@ -1,0 +1,561 @@
+{
+    "Schinkel Bar - Berlin": {
+        "address": "Franz\u00f6sische Stra\u00dfe 30, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Schinkel Bar - Berlin"
+    },
+    "TOWN BAR": {
+        "address": "Werderscher Markt 11, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "TOWN BAR"
+    },
+    "The Rooftop Terrace at Hotel de Rome": {
+        "address": "Behrenstra\u00dfe 37, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "The Rooftop Terrace at Hotel de Rome"
+    },
+    "Baret": {
+        "address": "Schlo\u00dfplatz, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Baret"
+    },
+    "Bistro Lebenswelten - Humboldt Forum": {
+        "address": "Schlo\u00dfplatz, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Bistro Lebenswelten - Humboldt Forum"
+    },
+    "Glasweise Weinbar Mitte": {
+        "address": "Taubenstra\u00dfe 20, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "liquor_store",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Glasweise Weinbar Mitte"
+    },
+    "Inselbar (Freiluftbar)": {
+        "address": "Museumsinsel, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Inselbar (Freiluftbar)"
+    },
+    "Sagrantino": {
+        "address": "Behrenstra\u00dfe 47, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Sagrantino"
+    },
+    "Billard Cafe Leipziger": {
+        "address": "Leipziger Stra\u00dfe 58, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Billard Cafe Leipziger"
+    },
+    "Upside Down Bar": {
+        "address": "Wallstra\u00dfe 70, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Upside Down Bar"
+    },
+    "Zille-Destille": {
+        "address": "Propststra\u00dfe 10, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Zille-Destille"
+    },
+    "Drinx Bar": {
+        "address": "Scharrenstra\u00dfe 22, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Drinx Bar"
+    },
+    "AZEM Cocktailbar": {
+        "address": "Rathausstra\u00dfe 17, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "AZEM Cocktailbar"
+    },
+    "Rule 405": {
+        "address": "Wallstra\u00dfe 23-24, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Rule 405"
+    },
+    "Zur letzten Instanz": {
+        "address": "Waisenstra\u00dfe 14-16, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Zur letzten Instanz"
+    },
+    "Zur Gerichtslaube": {
+        "address": "Poststra\u00dfe 28, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Zur Gerichtslaube"
+    },
+    "Piazza Rossa": {
+        "address": "Rathausstra\u00dfe 13, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "cafe",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Piazza Rossa"
+    },
+    "Marinehaus - Restaurant und Kneipe": {
+        "address": "M\u00e4rkisches Ufer 48-50, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Marinehaus - Restaurant und Kneipe"
+    },
+    "Stranded at Jannowitzbr\u00fccke": {
+        "address": "Rolandufer 4, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Stranded at Jannowitzbr\u00fccke"
+    },
+    "Tapas Berlin El Colmado Alexanderplatz": {
+        "address": "Rathausstra\u00dfe 13, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Tapas Berlin El Colmado Alexanderplatz"
+    },
+    "Gittis Bier-Bar": {
+        "address": "Br\u00fcckenstra\u00dfe 13, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Gittis Bier-Bar"
+    },
+    "RODI COCKTAIL BAR (MITTE)": {
+        "address": "Holzmarktstra\u00dfe 75, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "cafe",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "RODI COCKTAIL BAR (MITTE)"
+    },
+    "Electric Social": {
+        "address": "Grunerstra\u00dfe 13, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Electric Social"
+    },
+    "Rooftop One Bar Berlin-Alexanderplatz": {
+        "address": "Grunerstra\u00dfe 11, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Rooftop One Bar Berlin-Alexanderplatz"
+    },
+    "Mokka Mitte": {
+        "address": "James Simon Park, Stadtbahnbogen 159/160, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Mokka Mitte"
+    },
+    "Kilkenny Irish Pub": {
+        "address": "Am Zwirngraben 17-20, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Kilkenny Irish Pub"
+    },
+    "Andy's Diner & Bar": {
+        "address": "Karl-Liebknecht-Stra\u00dfe 5, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Andy's Diner & Bar"
+    },
+    "TheCoven Bar": {
+        "address": "Kleine Pr\u00e4sidentenstra\u00dfe 3, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "TheCoven Bar"
+    },
+    "Weihenstephaner Berlin": {
+        "address": "Neue Promenade 5, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Weihenstephaner Berlin"
+    },
+    "AP Berlin Lounge": {
+        "address": "Georgenstra\u00dfe 2, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "AP Berlin Lounge"
+    },
+    "Golden Flamingo": {
+        "address": "James-Simon-Park, Stadtbahnbogen 157/ 158, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Golden Flamingo"
+    },
+    "Berliner Gastronomie- und Shopgesellschaft mbH": {
+        "address": "Sankt Wolfgang-Stra\u00dfe 2, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Berliner Gastronomie- und Shopgesellschaft mbH"
+    },
+    "Le Jardin - Bar": {
+        "address": "Kleine Pr\u00e4sidentenstra\u00dfe 4, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Le Jardin - Bar"
+    },
+    "Strandbar Mitte": {
+        "address": "Monbijoustra\u00dfe 3B, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Strandbar Mitte"
+    },
+    "Bijou Bar": {
+        "address": "Monbijouplatz 1, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Bijou Bar"
+    },
+    "ZOE Bar": {
+        "address": "Gro\u00dfe Pr\u00e4sidentenstra\u00dfe 6-7, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "ZOE Bar"
+    },
+    "Weinstore Weingew\u00f6lbe": {
+        "address": "Neue Promenade 5, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Weinstore Weingew\u00f6lbe"
+    },
+    "Berlin Icebar": {
+        "address": "Spandauer Stra\u00dfe 2, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "tourist_attraction",
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Berlin Icebar"
+    },
+    "PETER PANE Burgergrill & Bar": {
+        "address": "Neue Promenade 4, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "PETER PANE Burgergrill & Bar"
+    },
+    "Georgia Bar": {
+        "address": "Georgenstra\u00dfe 194, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Georgia Bar"
+    },
+    "Vault Bar": {
+        "address": "Oranienburger Stra\u00dfe 4, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Vault Bar"
+    },
+    "Bar Hackascher markt": {
+        "address": "Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "Bar Hackascher markt"
+    },
+    "203": {
+        "address": "Panoramastra\u00dfe 1 A, Berlin",
+        "selectedHashtags": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "mainCategory": "Categoria non disponibile",
+        "primartupe": "Tipo non disponibile",
+        "primartaupe": "Tipo non disponibile",
+        "name": "203"
+    }
+}
